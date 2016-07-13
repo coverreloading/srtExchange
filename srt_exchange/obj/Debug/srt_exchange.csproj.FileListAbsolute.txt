@@ -1,0 +1,9 @@
+D:\E\Funny\C#\srt_exchange\srt_exchange\srt_exchange\bin\Debug\srt_exchange.exe.config
+D:\E\Funny\C#\srt_exchange\srt_exchange\srt_exchange\bin\Debug\srt_exchange.exe
+D:\E\Funny\C#\srt_exchange\srt_exchange\srt_exchange\bin\Debug\srt_exchange.pdb
+D:\E\Funny\C#\srt_exchange\srt_exchange\srt_exchange\obj\Debug\srt_exchange.csprojResolveAssemblyReference.cache
+D:\E\Funny\C#\srt_exchange\srt_exchange\srt_exchange\obj\Debug\srt_exchange.exe
+D:\E\Funny\C#\srt_exchange\srt_exchange\srt_exchange\obj\Debug\srt_exchange.pdb
+D:\E\Funny\VS\C#\srt_exchange\srt_exchange\srt_exchange\bin\Debug\srt_exchange.exe.config
+D:\E\Funny\VS\C#\srt_exchange\srt_exchange\srt_exchange\obj\Debug\srt_exchange.exe
+D:\E\Funny\VS\C#\srt_exchange\srt_exchange\srt_exchange\obj\Debug\srt_exchange.pdb
